@@ -1,0 +1,4 @@
+Hi.
+
+My name is Ricardo Tusso, with a master and PhD degree in chemical engineering, from University of Antioquia in Colombia. Currently, I´m working in the field of proess, synthesis and design of chemical processes, especifically heat integration in conventional and reactive distillation, such as divided wall distillation columns and reacti wall distillation columns. Also, optimization problem aboards the design and synthesis proble in these devices. As a result, stoichastic and deterministic algorithms evaluates the different goal of minimizing the costs and the enviromental impact, transforming these peroebles of a multiobjective optimization.
+
